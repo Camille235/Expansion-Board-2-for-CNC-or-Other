@@ -24,6 +24,7 @@ ExpBoard 2 have:
     10: GND
   # OUTPUTS
   6 outputs
+  
    FAN 
    
     1: Vcc 12V
