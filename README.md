@@ -9,7 +9,7 @@ This Expansion Board , named "ExpBoard 2" is dedicated for an Arduino Uno CNC (o
 
 ExpBoard 2 have:
 
-  INPUTS
+  # INPUTS
   10 inputs with a connector 5x2.
   
     1: Vcc 5V
