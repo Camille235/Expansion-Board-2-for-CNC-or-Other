@@ -36,5 +36,11 @@ ExpBoard 2 have:
     2: SDA
     3: Vcc 5V
     4: GND
+		
+		PUSH-BOTTONS
+		
+		1: CYCLE/START
+		2: RESET/ABORT
+		3: FEED HOLD
     
 
