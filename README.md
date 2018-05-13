@@ -28,7 +28,7 @@ ExpBoard 2 have:
    FAN 
    
     1: Vcc 12V
-    2: GND 
+    2: GND
     
    LCD I2C
 
