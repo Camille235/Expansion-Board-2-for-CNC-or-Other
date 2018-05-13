@@ -25,8 +25,11 @@ ExpBoard 2 have:
   # OUTPUTS
   6 outputs
    FAN 
+   
     1: Vcc 12V
+    
     2: GND 
+    
    LCD I2C
     1: SCL
     2: SDA
