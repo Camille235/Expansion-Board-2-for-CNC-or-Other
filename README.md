@@ -23,20 +23,20 @@ ExpBoard 2 have:
     9: Vcc 12V
     10: GND
   # OUTPUTS
-  6 outputs
+  6 outputs with two connectors.  
   
-   FAN 
+   FAN (or LED) connector (2 pins):
    
     1: Vcc 12V
     2: GND
     
-   LCD I2C
+   LCD I2C. For 16x2, 20x2 or 20x4 LCD. Header connector (4 pins):
 
     1: SCL
     2: SDA
     3: Vcc 5V
     4: GND
-   PUSH-BOTTONS
+   # PUSH-BOTTONS 
     
     1: CYCLE/START
     2: RESET/ABORT
