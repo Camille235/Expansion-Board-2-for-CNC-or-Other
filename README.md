@@ -31,6 +31,7 @@ ExpBoard 2 have:
     2: GND 
     
    LCD I2C
+   
     1: SCL
     
     2: SDA
