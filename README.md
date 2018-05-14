@@ -1,4 +1,4 @@
-# CNC-Expansion 
+# Expansion Board 2 - CNC - Other
 Expansion Board to Arduino CNC
 
 Hi!
